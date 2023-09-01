@@ -8,7 +8,7 @@
 
 int NsTwo::var = 2;
 
-class NsOne::Hi {
+class NsTwo::Hi {
 public:
   /* C++11之后是允许的，在成员变量声明的同时进行初始化 */
   int a = 1;

@@ -9,12 +9,12 @@ namespace NsOne {
     std::cout << a << std::endl;
     return 0;
   }
-  class Hi;
 }
 
 namespace NsTwo {
   extern int var;
   void func ();
+  class Hi;
 }
 
 namespace NsThree {
