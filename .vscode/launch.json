@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/usr/share/systemtap/runtime/linux",
-      "program": "/usr/share/systemtap/runtime/linux/build/Debug/outDebug",
+      "cwd": "/home/lieryang/Desktop/daily/20231105",
+      "program": "/home/lieryang/Desktop/daily/20231105/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

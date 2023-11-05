@@ -4,13 +4,13 @@
 		{
 			"type": "cppbuild",
 			"label": "C/C++: cpp.exe build active file",
-			"command": "C:\\Program Files (x86)\\mingw64\\bin\\g++.exe",
+			"command": "gcc",
 			"args": [
 				"-fdiagnostics-color=always",
 				"-g",
 				"${file}",
 				"-o",
-				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+				"${fileBasenameNoExtension}"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
