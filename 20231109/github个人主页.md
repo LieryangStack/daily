@@ -25,6 +25,8 @@ source ~/.bashrc
 
 ```sh
 gem install jekyll bundler
+# 使用github-pages
+gem install github-pages
 ```
 
 安装成功
@@ -32,3 +34,11 @@ gem install jekyll bundler
 ![Alt text](<./image/Screenshot from 2023-11-10 16-25-04.png>)
 
 ## 本地构建
+
+
+
+https://blog.csdn.net/qq_36272282/article/details/87987068
+https://halfrost.com/jekyll/
+https://wenfengsat.github.io/2018/06/19/jekyll%E6%95%99%E7%A8%8B%E5%85%A5%E9%97%A8/
+
+https://www.wbolt.com/jekyll-static-site.html
