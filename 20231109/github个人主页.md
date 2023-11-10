@@ -27,4 +27,8 @@ source ~/.bashrc
 gem install jekyll bundler
 ```
 
+安装成功
+
+![Alt text](<./image/Screenshot from 2023-11-10 16-25-04.png>)
+
 ## 本地构建
